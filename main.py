@@ -20,7 +20,7 @@ def line(char="═", width=48):
 def title():
     print()
     line("═")
-    print(f"{GREEN}{BOLD}        ⛏️  MINECRAFT INVENTORY{RESET}")
+    print(f"{GREEN}{BOLD}        ⛏️  MINECRAFT INVENTORY - SURVIVAL MODE{RESET}")
     print(f"{YELLOW}             BLOCK EDITION{RESET}")
     line("═")
     print(f"{GRAY}  Manage your items. Build your world.{RESET}")
