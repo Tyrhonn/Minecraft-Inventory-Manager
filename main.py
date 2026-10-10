@@ -21,7 +21,7 @@ def title():
     print()
     line("═")
     print(f"{GREEN}{BOLD}        ⛏️  MINECRAFT INVENTORY - SURVIVAL MODE{RESET}")
-    print(f"{YELLOW}             BLOCK EDITION{RESET}")
+    print(f"{YELLOW}             SURVIVAL INVENTORY{RESET}")
     line("═")
     print(f"{GRAY}  Manage your items. Build your world.{RESET}")
     print()
